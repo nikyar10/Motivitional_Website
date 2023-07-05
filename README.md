@@ -1,2 +1,2 @@
 # Motivitional_Website
-This Website is a bout a motivitional word from William Shakespeare
+This Website is about a motivitional word from William Shakespeare
